@@ -1,40 +1,130 @@
-  <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300">
-</div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anushka Wijegoonawardana</h1>
-<p><img src="https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social" alt="GitHub followers"> <img src="https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social" alt="GitHub User's stars"> <img src="https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName" alt="Visitor"> <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97"></p>
-<h2 id="about-me">About Me :</h2>
-<ul>
-<li>🏢 I am currently working as a <strong>Senior Software Engineer</strong> at <a href="https://hclsrilanka.com/contact-us/">HCL Technologies Lanka</a></li>
-<li>🏢 Former <strong>Software Engineer</strong> at <a href="https://www.ilabs.lk/">iLabs</a></li>
-<li>🎓 Studies for Software Engineering at <a href="https://www.londonmet.ac.uk/">London Metropolitan University</a></li>
-<li>🎓 Studies for BCS HEQ at <a href="http://www.matrix-edu.com/">Matrix Institute of Information Technology</a></li>
-<li>🏡‘Lives in <strong>Dalugama Sri Lanka</strong></li>
-<li>⚡ <strong>Fun Facts</strong> : 🍕 🏉 🏏 🎥 🚞</li>
-</ul>
-<br>
-<h2 id="connect-with-me-">Connect with me ☕ :</h2>
-<br>
-<p><a href="https://www.instagram.com/anushkawijegoonawardana97/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="@anushkawijegoonawardana97" title="@anushkawijegoonawardana97"></a> <a href="https://www.facebook.com/AnushkaWijegoonawardana97"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="@AnushkaWijegoonawardana97" title="@AnushkaWijegoonawardana97"></a> <a href="https://www.linkedin.com/in/anushkawijegoonawardana97/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@anushkawijegoonawardana97" title="@anushkawijegoonawardana97"></a> <a href="https://twitter.com/anushka_wije"><img src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="@anushka_wije" title="@anushka_wije"></a> <a href="tel:0711971313"><img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="@0711971313" title="@0711971313"></a> <a href="anushkaduwolka123@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="@anushkaduwolka123@gmail.com" title="@anushkaduwolka123@gmail.com"></a></p>
-<br>
-<h2 id="what-i-am-good-at-">What I am Good at 🧑‍💻 :</h2>
-<br>
-<p><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"> <img src="https://img.icons8.com/color/48/000000/css3.png"> <img src="https://img.icons8.com/color/48/000000/sass.png"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"> <img src="https://img.icons8.com/office/48/000000/react.png"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"></p>
-<p><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"></p>
-<p><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"> <img src="https://img.icons8.com/color/48/000000/firebase.png"></p>
-<img src="https://img.icons8.com/color/48/000000/npm.png">
-<br>
-<h2 id="github-stats-">GitHub Stats 📈 :</h2>
-<br>
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&amp;theme=algolia&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a> <a href="https://github.com/AnushkaWijegoonawardana97/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&amp;theme=algolia" alt="AnushkaWijegoonawardana97 GitHub stats"></a> <a href="https://github.com/AnushkaWijegoonawardana97/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&amp;theme=algolia" alt="Top Langs"></a> <a href="https://github.com/WinterWolf97/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&amp;theme=algolia" alt="AnushkaWijegoonawardana97 wakatime stats"></a></p>
-<br>
-<h2 id="github-thropies-">GitHub Thropies 🏆 :</h2>
-<br>
-<p><a href="https://github.com/AnushkaWijegoonawardana97/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97" alt="trophy"></a></p>
-<br>
-<h2 id="activity-graph-">Activity Graph 📊 :</h2>
-<br>
-<p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&amp;bg_color=000&amp;color=fff&amp;line=00E676&amp;point=fff&amp;hide_border=true" alt="Ashutosh's github activity graph"></a></p>
-<hr>
-<p>Credit: <a href="https://github.com/AnushkaWijegoonawardana97">AnushkaWijegoonawardana97</a></p>
-<p>Last edited on: 30/06/2022</p> 
+<!-- Profile README for Chamesss -->
+
+<!-- Hero / Header -->
+<h1 align="center">Hi, I'm Chamesss</h1>
+<p align="center">
+  <b>Building, learning, and shipping.</b><br/>
+  <i>Welcome to my GitHub profile.</i>
+</p>
+
+<p align="center">
+  <!-- Quick links (edit these) -->
+  <a href="https://github.com/Chamesss?tab=repositories">Repositories</a> •
+  <a href="https://github.com/Chamesss?tab=stars">Stars</a> •
+  <a href="https://github.com/Chamesss?tab=followers">Followers</a>
+</p>
+
+<hr/>
+
+<!-- Badges row (optional; edit/remove) -->
+<p align="center">
+  <img alt="Profile views"
+       src="https://komarev.com/ghpvc/?username=Chamesss&style=flat-square&color=0e75b6" />
+  <img alt="GitHub followers"
+       src="https://img.shields.io/github/followers/Chamesss?style=flat-square" />
+  <img alt="GitHub stars"
+       src="https://img.shields.io/github/stars/Chamesss?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" />
+</p>
+
+## About me
+
+- I enjoy building practical projects and learning by shipping.
+- Interests: **software engineering**, **automation**, and **clean UI/UX**.
+- Currently: improving my stack and working on personal projects.
+
+> Tip: Replace this section with 3–5 bullets that sound like you.
+
+---
+
+## Tech stack (edit to match your actual stack)
+
+<p align="left">
+  <!-- Use https://skillicons.dev to customize icons -->
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,linux&perline=7" />
+</p>
+
+<details>
+  <summary><b>More tools I like</b></summary>
+  <br/>
+  <p>
+    Add icons here: <a href="https://skillicons.dev">skillicons.dev</a><br/>
+    Example: docker, postgres, mongodb, firebase, aws, gcp, etc.
+  </p>
+</details>
+
+---
+
+## GitHub Analytics (auto-updating “charts”)
+
+<p align="center">
+  <!-- Main stats -->
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=Chamesss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <!-- Streaks -->
+  <img height="160"
+       src="https://streak-stats.demolab.com?user=Chamesss&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Top languages -->
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamesss&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamesss&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Trophies (optional, but fancy)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chamesss&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## Featured Projects (pin these on your profile too)
+
+> Replace with your best repos.  
+> You can also “Customize your pins” on GitHub to show them on your profile.
+
+- 🔥 **Project One** — short description  
+  https://github.com/Chamesss/REPO_NAME
+- 🚀 **Project Two** — short description  
+  https://github.com/Chamesss/REPO_NAME
+- 🧰 **Project Three** — short description  
+  https://github.com/Chamesss/REPO_NAME
+
+---
+
+## Connect
+
+<p align="left">
+  <!-- Replace # with your links -->
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<details>
+  <summary><b>Notes / Setup</b></summary>
+  <br/>
+  <ol>
+    <li>Create a repo named <code>Chamesss</code> (must match your username exactly).</li>
+    <li>Add this <code>README.md</code> to that repo.</li>
+    <li>Edit the “Tech stack” icons + project links to reflect your real work.</li>
+  </ol>
+
+  <p>
+    If any images don’t load: some widgets may be rate-limited temporarily by their hosting services.
+    Refresh later or remove the section you don’t want.
+  </p>
+</details>
