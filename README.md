@@ -36,7 +36,7 @@
 ### GitHub Streak
 <p align="center">
   <img height="170"
-       src="https://streak-stats.demolab.com?user=Chamesss&theme=tokyonight&hide_border=true" />
+       src="https://raw.githubusercontent.com/Chamesss/Chamesss/output/streak-card.svg" />
 </p>
 
 ### Contribution “Snake” (generated via GitHub Actions)
