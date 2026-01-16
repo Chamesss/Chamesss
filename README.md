@@ -28,7 +28,7 @@
 ## Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs,electron,vite,html,css,tailwind,git,github,idea,linux,aws,notion,obsidian&perline=7" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs,electron,vite,html,css,tailwind,git,github,idea,linux,aws,notion,obsidian&perline=10" />
 </p>
 
 ---
