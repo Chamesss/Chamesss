@@ -33,6 +33,15 @@
 
 ---
 
+## Contributions
+
+<p align="center">
+  <img alt="Snake animation (dark)"
+       src="https://raw.githubusercontent.com/Chamesss/Chamesss/output/snake.svg" />
+</p>
+
+---
+
 ## Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamesss&theme=tokyo-night&hide_border=true" />
