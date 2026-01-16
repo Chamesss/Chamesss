@@ -17,10 +17,8 @@
 <p align="center">
   <img alt="Profile views"
        src="https://komarev.com/ghpvc/?username=Chamesss&style=flat-square&color=0e75b6" />
-  <img alt="GitHub followers"
+  <img alt="Followers"
        src="https://img.shields.io/github/followers/Chamesss?style=flat-square" />
-  <img alt="GitHub stars"
-       src="https://img.shields.io/github/stars/Chamesss?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" />
 </p>
 
 ---
@@ -33,42 +31,40 @@
 
 ---
 
-## GitHub Analytics (fixed links + common blockers)
+## GitHub Analytics (no Vercel)
 
-<p align="center">
-  <!-- If this doesn't render, it's usually rate-limiting or blocked images. -->
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=Chamesss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
-  <img height="160"
-       src="https://streak-stats.demolab.com?user=Chamesss&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-
+### GitHub Streak
 <p align="center">
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamesss&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" />
+       src="https://streak-stats.demolab.com?user=Chamesss&theme=tokyonight&hide_border=true" />
+</p>
+
+### Contribution “Snake” (generated via GitHub Actions)
+> This one is hosted from *your* repo once you set it up (reliable).
+<p align="center">
+  <img alt="snake"
+       src="https://raw.githubusercontent.com/Chamesss/Chamesss/output/snake.svg" />
 </p>
 
 ---
 
-## Activity Graph (backup link included)
-
+## Activity Graph (optional)
 <p align="center">
-  <!-- Primary -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamesss&theme=tokyo-night&hide_border=true" />
 </p>
 
+> If the activity graph ever fails too, remove that section (it’s also commonly Vercel-hosted).
+
 ---
 
-## Trophies (fixed + safe params)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chamesss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
+## Featured projects
+- 🔥 Project 1 — https://github.com/Chamesss/REPO_NAME
+- 🚀 Project 2 — https://github.com/Chamesss/REPO_NAME
+- 🧰 Project 3 — https://github.com/Chamesss/REPO_NAME
 
 ---
 
 ## Connect
-
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
